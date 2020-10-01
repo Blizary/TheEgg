@@ -95,13 +95,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   eggphases:
-  - {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 21300000, guid: 6d972070a5222a74ba0a0867407efb07, type: 3}
+  - {fileID: 21300000, guid: c5245cf75e59174459c3df804135ffba, type: 3}
+  - {fileID: 21300000, guid: b4cf278c85a0930409278c2b009dd1bf, type: 3}
   speed:
   - 0
   - 1
   - 2
   - 1
-  lifeTimer: 20
+  lifeTimer: 40

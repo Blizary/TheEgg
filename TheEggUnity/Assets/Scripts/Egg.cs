@@ -40,6 +40,8 @@ public class Egg : MonoBehaviour
     /// </summary>
     void Movement()
     {
+
+
         //rBody.MovePosition(new Vector2((transform.position.x + Input.GetAxisRaw("Horizontal") * moveSpd * Time.deltaTime), (transform.position.y + Input.GetAxisRaw("Vertical") * moveSpd * Time.deltaTime)));
     }
 
