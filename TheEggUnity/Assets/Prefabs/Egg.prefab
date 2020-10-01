@@ -95,9 +95,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   eggphases:
-  - {fileID: 21300000, guid: 6d972070a5222a74ba0a0867407efb07, type: 3}
-  - {fileID: 21300000, guid: c5245cf75e59174459c3df804135ffba, type: 3}
-  - {fileID: 21300000, guid: b4cf278c85a0930409278c2b009dd1bf, type: 3}
+  - {fileID: 2357355824760292583, guid: 2a2ac003a56a79e4d9dbe5f6d07ce60c, type: 3}
+  - {fileID: -8356782953224549716, guid: 2a2ac003a56a79e4d9dbe5f6d07ce60c, type: 3}
+  - {fileID: -5953168085622064660, guid: 2a2ac003a56a79e4d9dbe5f6d07ce60c, type: 3}
+  - {fileID: -6687940356181781098, guid: 2a2ac003a56a79e4d9dbe5f6d07ce60c, type: 3}
   speed:
   - 0
   - 1
